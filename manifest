@@ -1,0 +1,11 @@
+[app]
+name: Bad Apple 
+category: h4xx 
+author: Antricks;
+url: https://antricks.dev/
+html: index.html
+icon: icon.png
+desc: Bad Apple for the FTCommunity Firmware 
+exec: bad-apple.py
+managed: launcher-plugin
+uuid: 3550e4e0-330c-42a9-810a-ca0ff1e42fd4
