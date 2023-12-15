@@ -5,7 +5,7 @@ import sys, os, subprocess,time
 from TouchStyle import *
 from launcher import LauncherPlugin
 
-PLAYER = "/opt/ftc/apps/system/bad-apple/test.sh"
+PLAYER = "/opt/ftc/apps/system/bad-apple/guilite-player"
 VIDEO = "/opt/ftc/apps/system/bad-apple/bad-apple.mp4"
 FB = "/dev/fb0"
 
